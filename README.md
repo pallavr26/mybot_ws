@@ -8,3 +8,8 @@ This repository has several branches. Please checkout the appropriate branch for
 
 For more information on running the code:  <br>
 http://moorerobots.com/blog/post/6
+
+
+<Pallav>
+  
+  Run ready bot for gazebo simulation with 2D Lidar and a mono-camera, stereo camera URDF (Xacro and .gazebo) will be added soon
